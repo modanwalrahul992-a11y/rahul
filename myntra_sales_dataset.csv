@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Gender_Category,Product,Brand,Color,Size,Unit_Price_INR,Quantity,Sales_Amount_INR,State,City,Payment_Method,Order_Status,Customer_Rating
+1001,2026-01-05,Women,Kurta,Biba,Blue,M,1499,1,1499,UP,Lucknow,UPI,Delivered,4.3
+1002,2026-01-06,Men,Casual Shirt,Roadster,White,L,999,2,1998,Delhi,New Delhi,Credit Card,Delivered,4.1
+1003,2026-01-07,Women,Jeans,Roadster,Black,28,1799,1,1799,Maharashtra,Mumbai,Debit Card,Delivered,4.0
+1004,2026-01-08,Men,Sneakers,HRX,White,9,2499,1,2499,Karnataka,Bengaluru,UPI,Returned,3.8
+1005,2026-01-09,Women,Dress,DressBerry,Pink,S,1999,1,1999,Uttar Pradesh,Kanpur,Cash on Delivery,Delivered,4.5
+1006,2026-01-10,Kids,T-shirt,Myntra,Yellow,6-7Y,599,3,1797,Rajasthan,Jaipur,UPI,Delivered,4.2
+1007,2026-01-11,Men,Jeans,Levis,Blue,32,2199,1,2199,Tamil Nadu,Chennai,Credit Card,Cancelled,4.0
+1008,2026-01-12,Women,Handbag,Lavie,Brown,One Size,1299,2,2598,Telangana,Hyderabad,Debit Card,Delivered,4.4
+1009,2026-01-13,Men,Hoodie,Roadster,Grey,M,1599,1,1599,West Bengal,Kolkata,UPI,Delivered,4.1
+1010,2026-01-14,Women,Sandals,Anouk,Black,7,899,2,1798,Gujarat,Ahmedabad,Cash on Delivery,Delivered,3.9
+1011,2026-01-15,Men,Formal Trousers,Peter England,Navy,L,1699,1,1699,UP,Lucknow,Credit Card,Delivered,4.2
+1012,2026-01-16,Women,Top,H&M,Green,M,799,2,1598,Madhya Pradesh,Bhopal,UPI,Returned,3.7
+1013,2026-01-17,Kids,Sneakers,Puma,Black,3,1899,1,1899,Kerala,Kochi,Debit Card,Delivered,4.6
+1014,2026-01-18,Women,Saree,Libas,Red,Free Size,2299,1,2299,Bihar,Patna,UPI,Delivered,4.3
+1015,2026-01-19,Men,T-shirt,HRX,Black,XL,699,3,2097,Punjab,Ludhiana,Cash on Delivery,Delivered,4.0
+1016,2026-01-20,Women,Watch,Fossil,Rose Gold,One Size,3499,1,3499,Delhi,New Delhi,Credit Card,Delivered,4.5
+1017,2026-01-21,Men,Jacket,Roadster,Olive,L,2799,1,2799,Maharashtra,Pune,UPI,Delivered,4.2
+1018,2026-01-22,Women,Kurta,Anouk,Yellow,S,1199,2,2398,Uttar Pradesh,Lucknow,Debit Card,Delivered,4.1
+1019,2026-01-23,Kids,Dress,Myntra,Purple,8-9Y,1099,1,1099,Haryana,Gurugram,UPI,Cancelled,3.9
+1020,2026-01-24,Men,Sneakers,Puma,White,10,2999,1,2999,Karnataka,Mysuru,Credit Card,Delivered,4.7
+1021,2026-01-25,Women,Jeans,Levis,Blue,30,1899,1,1899,Gujarat,Surat,UPI,Delivered,4.2
+1022,2026-01-26,Men,Casual Shirt,H&M,Beige,M,1099,2,2198,Rajasthan,Jodhpur,Debit Card,Returned,3.8
+1023,2026-01-27,Women,Handbag,Lavie,Black,One Size,1599,1,1599,Telangana,Hyderabad,UPI,Delivered,4.4
+1024,2026-01-28,Men,Formal Shoes,Bata,Brown,9,1999,1,1999,Uttar Pradesh,Varanasi,Cash on Delivery,Delivered,4.0
+1025,2026-01-29,Women,Dress,DressBerry,Black,M,2499,1,2499,Maharashtra,Mumbai,Credit Card,Delivered,4.6
+1026,2026-01-30,Kids,T-shirt,Myntra,Blue,5-6Y,499,2,998,Delhi,New Delhi,UPI,Delivered,4.1
+1027,2026-01-31,Men,Hoodie,HRX,Navy,L,1799,1,1799,West Bengal,Kolkata,Debit Card,Delivered,4.3
+1028,2026-02-01,Women,Sandals,Anouk,Tan,6,999,1,999,Uttar Pradesh,Lucknow,UPI,Delivered,4.0
+1029,2026-02-02,Men,Jacket,Roadster,Black,M,3199,1,3199,Tamil Nadu,Chennai,Credit Card,Returned,3.6
+1030,2026-02-03,Women,Top,H&M,White,S,899,3,2697,Karnataka,Bengaluru,UPI,Delivered,4.4
